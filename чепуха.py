@@ -1,0 +1,7 @@
+whu = input("кто? ")
+withhim = input("с кем? ")
+when = input("когда? ")
+whatdid = input("что делали? ")
+where = input("где? ")
+whatwrong = input("что произошло? ")
+print (whu+" "+withhim+" "+ when +" "+whatdid +" "+ where +" "+ whatwrong) 
